@@ -1,0 +1,17 @@
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "editor.formatOnSave": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 120,
+  "quoteProps": "as-needed",
+  "endOfLine": "lf",
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "bracketSameLine": false,
+  "useTabs": false,
+  "singleAttributePerLine": true,
+  "useCache": true
+}

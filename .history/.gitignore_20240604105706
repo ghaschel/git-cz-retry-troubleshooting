@@ -128,10 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-# husky
-.husky/_
-
-# local misc
-*.todo
-.eslintcache
