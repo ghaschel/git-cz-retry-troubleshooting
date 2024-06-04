@@ -9,7 +9,8 @@ const config = {
     "node_modules/**/*",
     "__mock__/**/*",
     "webpack*",
-    "src/workers/*.js"
+    "src/workers/*.js",
+    "src/scripts/**"
   ],
 };
 
